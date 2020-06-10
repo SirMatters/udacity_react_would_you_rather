@@ -15,4 +15,4 @@ App handles auth (frontend), poll creation, poll answering.
 
 ## Styling
 Bootstrap 4 lib was used for styling as just basic styles were used.
-It is planned to migrate to upgrade the project to use react-bootstrap in the future for advanced styling.
+It is planned to upgrade the project to use react-bootstrap in the future for advanced styling.
