@@ -4,7 +4,11 @@ This is a study project for Udacity React nanodegree program.
 The app is aimed for users to create and vote polls.
 
 ## Installation
-`npm install`
+```
+git clone https://github.com/SirMatters/udacity_react_would_you_rather.git
+cd udacity_react_would_you_rather
+npm install
+```
 
 ## Launch
 `npm start`
